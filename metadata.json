@@ -1,0 +1,6 @@
+{
+  "name": "ઇંગ્લિશ ગુરુકુળ - English Learning & Grammar Game",
+  "description": "ગુજરાતી માધ્યમના ધોરણ ૬ થી ૮ ના વિદ્યાર્થીઓ માટે અવાજ (Voice Pronunciation), રંગબેરંગી ચાર્ટ્સ અને ગેમ્સ સાથે અંગ્રેજી શીખવાની શૈક્ષણિક એપ્લિકેશન.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
